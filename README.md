@@ -1,4 +1,4 @@
-# Node.js HTTP Server (no frameworks)
+# Node.js HTTP Server 
 
 A basic HTTP server built with only Node.js's built-in `http`, `url` and
 `querystring` modules. It serves three static pages over GET and accepts
@@ -16,9 +16,6 @@ node-http-server/
 └── README.md
 ```
 
-## Requirements
-
-- Node.js 14+ (no external packages needed)
 
 ## Install and run
 
