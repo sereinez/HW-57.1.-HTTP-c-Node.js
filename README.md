@@ -152,6 +152,6 @@ Every response includes:
 
 ## Testing
 
-Manual testing was done with `curl` (see examples above) and Postman,
+Manual testing was done with `curl` ,
 covering all three GET routes, valid/invalid/oversized POST requests,
 and an unknown route to confirm the 404 handler.
